@@ -1,0 +1,6 @@
+.env
+
+.vscode/
+input_data/
+processed_data/
+output/
